@@ -1,0 +1,25 @@
+{
+  "cards": [
+    {
+      "id": "minecraft",
+      "title": "Minecraft 1.21.4",
+      "description": "Minecraft 1.21.4 is now live with bug fixes, performance improvements, and minor gameplay changes.",
+      "image": "",
+      "updatedAt": "2026-01-19"
+    },
+    {
+      "id": "astra-client",
+      "title": "Astra Client Update",
+      "description": "New launcher improvements and upcoming cosmetic features are in development.",
+      "image": "",
+      "updatedAt": "2026-01-19"
+    },
+    {
+      "id": "announcement",
+      "title": "Announcement",
+      "description": "More features and updates are coming soon. Stay tuned.",
+      "image": "",
+      "updatedAt": "2026-01-19"
+    }
+  ]
+}
