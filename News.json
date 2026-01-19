@@ -5,6 +5,7 @@
       "title": "Minecraft 1.21.4",
       "description": "Minecraft 1.21.4 is now live with bug fixes, performance improvements, and minor gameplay changes.",
       "image": "",
+      "url": "",
       "updatedAt": "2026-01-19"
     },
     {
@@ -12,6 +13,7 @@
       "title": "Astra Client Update",
       "description": "New launcher improvements and upcoming cosmetic features are in development.",
       "image": "",
+      "url": "",
       "updatedAt": "2026-01-19"
     },
     {
@@ -19,6 +21,7 @@
       "title": "Announcement",
       "description": "More features and updates are coming soon. Stay tuned.",
       "image": "",
+      "url": "",
       "updatedAt": "2026-01-19"
     }
   ]
