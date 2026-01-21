@@ -4,7 +4,7 @@
       "id": "minecraft",
       "title": "Minecraft 1.21.4",
       "description": "Minecraft 1.21.4 is now live with bug fixes, performance improvements, and minor gameplay changes.",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Pinearv2/Pinned-message.json/main/news1.png",
       "url": "",
       "updatedAt": "2026-01-19"
     },
@@ -12,7 +12,7 @@
       "id": "astra-client",
       "title": "Astra Client Update",
       "description": "New launcher improvements and upcoming cosmetic features are in development.",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Pinearv2/Pinned-message.json/main/news2.png",
       "url": "",
       "updatedAt": "2026-01-19"
     },
@@ -20,7 +20,7 @@
       "id": "announcement",
       "title": "Announcement",
       "description": "More features and updates are coming soon. Stay tuned.",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Pinearv2/Pinned-message.json/main/news3.png",
       "url": "",
       "updatedAt": "2026-01-19"
     }
