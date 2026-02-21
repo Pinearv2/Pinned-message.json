@@ -1,9 +1,9 @@
 {
   "popupOn": true,
   "isMandatory": false,
-  "targetVersion": "1.0.1",
+  "targetVersion": "",
   "title": "Astra Client Update Available",
-  "message": "A new version of Astra Client is now available. This update includes performance improvements and core system stability fixes.",
-  "buttonText": "Update to v1.0.1",
+  "message": "A new version of Astra Client is now available.",
+  "buttonText": "Update to v",
   "downloadLink": ""
 }
