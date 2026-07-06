@@ -2,19 +2,19 @@
   "cards": [
     {
       "id": "minecraft",
-      "title": "Minecraft 1.21.4",
+      "title": "Minecraft 26.2",
       "description": "Minecraft 1.21.4 is now live with bug fixes, performance improvements, and minor gameplay changes.",
       "image": "https://raw.githubusercontent.com/Pinearv2/Pinned-message.json/main/news1.png",
       "url": "",
       "updatedAt": "2026-01-19"
     },
     {
-      "id": "astra-client",
-      "title": "Astra Client Update",
+      "id": "cursor-client",
+      "title": "cursor Client Update",
       "description": "New launcher improvements and upcoming cosmetic features are in development.",
       "image": "https://raw.githubusercontent.com/Pinearv2/Pinned-message.json/main/news2.jpg",
       "url": "https://astraclientmc.pages.dev/updates",
-      "updatedAt": "2026-01-19"
+      "updatedAt": "2026-07-19"
     },
     {
       "id": "announcement",
