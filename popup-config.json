@@ -1,9 +1,14 @@
 {
-  "popupOn": true,
+  "latestver": 2.14,
   "isMandatory": false,
   "targetVersion": "",
-  "title": "Astra Client Update Available",
-  "message": "A new version of Astra Client is now available.",
+  "title": "Update Available",
+  "message": "A new version is now available.",
   "buttonText": "Update to v",
   "downloadLink": ""
 }
+
+async.versionup
+try:
+if launcherver() < latestver()
+ "showpopup" = true
