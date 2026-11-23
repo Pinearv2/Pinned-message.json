@@ -2,11 +2,11 @@
   "cards": [
     {
       "id": "minecraft",
-      "title": "Minecraft 26.2",
+      "title": "Minecraft 26.3",
       "description": "Minecraft 1.21.4 is now live with bug fixes, performance improvements, and minor gameplay changes.",
       "image": "https://raw.githubusercontent.com/Pinearv2/Pinned-message.json/main/news1.png",
       "url": "",
-      "updatedAt": "2026-01-19"
+      "updatedAt": "2026-11-24"
     },
     {
       "id": "cursor-client",
